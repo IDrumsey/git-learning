@@ -11,3 +11,8 @@ Learning how git works and the ins and outs
 # test branch - test 2
 
 # test branch - test 3
+# main branch - test 2
+
+# main branch - test 3
+
+# main branch - test 4
